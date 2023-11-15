@@ -1,7 +1,7 @@
 # HACKATHON ADDITIVE4SPORT - HIVELIX
 
 ## TPMS
-Avec Blender - [Addon Blender-TPMS](https://github.com/kmarchais/blender-tpms)
+Avec Blender - [Addon Blender-TPMS](https://github.com/kmarchais/blender-tpms) - Tuto : [Vidéo YouTube](https://www.youtube.com/watch?v=wNZWhSXlVyA)
 
 <img src="https://github.com/Hivelix/hackathon-additive4sport/assets/22714778/5b728394-accd-4204-84ab-8518c401770b" width="49%"/>
 <img src="https://github.com/Hivelix/hackathon-additive4sport/assets/22714778/43e96559-c485-4a4c-93f3-ab253a2101ba" width="30%"/>
